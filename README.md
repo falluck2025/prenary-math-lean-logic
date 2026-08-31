@@ -1,7 +1,7 @@
 # 偏元数学逻辑与计算 · Lean 4 形式化验证
 # Prenary Logic & Computation · Formal Verification in Lean 4
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22209175.svg)](https://doi.org/10.5281/zenodo.22209175)
 
 > **声明**：本文工作尚未得到独立实验验证，全部结论均为形式化验证层面的初步结果。
 
